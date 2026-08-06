@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://archive-goq94k.shadowdiary.com/sitemap.xml
